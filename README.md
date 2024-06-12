@@ -52,8 +52,8 @@ Any user familiar with cargo and Rust may also run the bash file provided
 after installing the `binary-ensemble` package.
 
 
-:warning: The jsonl files provided in the `jsonl_files` will consume 36GB of
-disk space when decompressed.
+> :warning: **Warning:** :warning: The jsonl files provided in the `jsonl_files` will consume 36GB of 
+> disk space when decompressed.
 
 For the convenience of the reader, the outputs of the `score_jsonl_files.py`
 script are provided in the `csv_files` folder so that the user only needs to run 
